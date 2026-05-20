@@ -1,1 +1,47 @@
 # Python-Mini-Toolkit
+#Python Mini Toolkit
+
+## Project Description
+
+This is a beginner-friendly Python project created to demonstrate basic Python programming skills. The program is menu-based and includes useful study and motivation tools.
+
+## Features
+
+- Study Planner
+- Daily Motivation Generator
+
+## Python Concepts Used
+
+- Variables and data types
+- User input and output
+- Operators
+- if, elif, else statements
+- Loops
+- Functions
+- Lists
+- Modules
+- Type casting
+
+## How to Run the Project
+
+1. Open the project folder.
+2. Run `main.py` using Python.
+3. Choose an option from the menu.
+
+## Challenges Faced
+
+One challenge was creating the menu system and making sure each option worked correctly.
+
+## What I Learned
+
+I learned how to use functions, loops, and modules to create an interactive Python program.
+
+## Future Improvements
+
+- Add more study tools
+- Add a graphical user interface
+- Save study plans to a file
+
+## Author
+
+### Zaarah Okkers
